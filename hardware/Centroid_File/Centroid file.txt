@@ -1,0 +1,9 @@
+Placement file: 'C:\KiCad\ESP-32_C3_Sensor_Board004\ESP32_C3 Sensor Module\ESP-32 C3 demo project004-all.pos'.
+Info: Component count: 74.
+Info: Done.
+Placement file: 'C:\KiCad\ESP-32_C3_Sensor_Board004\ESP32_C3 Sensor Module\ESP-32 C3 demo project004-all.pos'.
+Info: Component count: 74.
+Info: Done.
+Placement file: 'C:\KiCad\ESP-32_C3_Sensor_Board004\ESP32_C3 Sensor Module\ESP-32 C3 demo project004-all.pos'.
+Info: Component count: 74.
+Info: Done.
