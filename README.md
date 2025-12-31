@@ -110,7 +110,7 @@ SPI Flash
 
 ---
 
-## 🧾 Bill of Materials (Detailed – With Values)
+## 🧾 Bill of Materials
 
 ###  Active Components
 
